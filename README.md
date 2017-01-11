@@ -9,4 +9,9 @@
 ![Images](https://github.com/ShafiraNilam/RecyclerView3/blob/master/Screenshot_20170102-093000.png) <br> <br>
 ![Images](https://github.com/ShafiraNilam/RecyclerView3/blob/master/Screenshot_20170102-092838.png) <br> <br>
 4. Mampu melakukan edit pada item yang sudah tertera
-![Images](https://github.com/ShafiraNilam/RecyclerView3/blob/master/Screenshot_20170102-092907.png)<br>
+![Images](https://github.com/ShafiraNilam/RecyclerView3/blob/master/Screenshot_20170102-092907.png)<br><br>
+5. Mampu menambahkan item 
+![Images](https://github.com/ShafiraNilam/RecyclerView3/blob/master/Screenshot_20170111-095008.png)<br><br>
+
+#Identitas
+Shafira Nilamsari Murdowo / XI RPL 3 / 4836 / SMK TELKOM MALANG
